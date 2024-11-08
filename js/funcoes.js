@@ -1,8 +1,8 @@
 const commands = [];
 const lin = 8;
 const col = 8;
-const largura = 80;
-const altura = 80;
+const largura = 60;
+const altura = 60;
 const houseIcon = "🕳️";
 const personIcon = "💀";
 const targetIcon = "🎯";
@@ -75,8 +75,9 @@ function updateTable() {
         if (allFound.length !== destinations.length) {
             currentStatus = gameStatus.lostObjectives;
         }
-
-        currentStatus = gameStatus.won;
+        else {
+            currentStatus = gameStatus.won;
+        }
     }
 
     for (let destination of destinations) {
