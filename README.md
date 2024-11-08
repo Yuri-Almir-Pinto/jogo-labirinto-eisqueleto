@@ -1,7 +1,7 @@
 # Sobre o Projeto
 Este repositório contém um pequeno projeto que desenvolvi durante algumas aulas na faculdade.
 
-## Inicialmente, eu não pretendia publicar o código, mas o jogo ficou tão interessante e visualmente agradável que decidi compartilhá-lo.
+Inicialmente, eu não pretendia publicar o código, mas o jogo ficou tão interessante e visualmente agradável que decidi compartilhá-lo.
 
 ## Como Iniciar
 Para jogar, basta abrir o arquivo "index.html" em um navegador. Você pode usar um live server, mas não é obrigatório.
