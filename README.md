@@ -14,7 +14,7 @@ Depois de marcar todos os alvos, o jogador deve se dirigir à saída do mapa par
 ## Controles
 Os controles do jogo estão abaixo do tabuleiro. O jogador define as direções que o esqueleto deve percorrer e, ao terminar, clica no botão "Ok" para executar o caminho.
 
-O botão com o ícone de um robô ativa uma ✨inteligência artificial LLM ultra avançada✨ (É um algoritmo de busca binária). Ao clicar nele, um caminho que passa por todos os alvos e termina na saída será gerado, vencendo o jogo automaticamente.
+O botão com o ícone de um robô ativa uma ✨inteligência artificial LLM ultra avançada✨ (É um algoritmo ganancioso de pathfinding). Ao clicar nele, um caminho que passa por todos os alvos e termina na saída será gerado, vencendo o jogo automaticamente.
 
 ## Mas que código mal organizado é esse??
 Eu não vou gastar tempo organizando bonitinho um código que só vou ver uma vez na vida, e não vai crescer para além de um arquivo.
